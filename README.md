@@ -6,9 +6,9 @@ Open the same URL in two or three separate windows and arrange them on your scre
 
 ## Demo
 
-<video src="assets/videoDemo.mp4" controls muted width="100%"></video>
+<video src="https://raw.githubusercontent.com/Pavan0277/Multi-Window-Galaxy/main/assets/videoDemo1.mp4" autoplay loop muted playsinline controls width="100%"></video>
 
-[▶ Watch the demo video](assets/videoDemo.mp4)
+[▶ Watch the demo video](https://github.com/Pavan0277/Multi-Window-Galaxy/blob/main/assets/videoDemo1.mp4)
 
 ## How It Works
 
