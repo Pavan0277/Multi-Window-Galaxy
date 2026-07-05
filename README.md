@@ -6,7 +6,7 @@ Open the same URL in two or three separate windows and arrange them on your scre
 
 ## Demo
 
-https://github.com/Pavan0277/Multi-Window-Galaxy/raw/main/assets/videoDemo1.mp4
+![Demo Animation](assets/videoDemo1.gif)
 
 ## How It Works
 
